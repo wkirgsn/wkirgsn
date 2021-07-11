@@ -28,15 +28,13 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wkirgsn&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-### 🔬 Occupation
+#### 🔬 Occupation
 *  Research at Paderborn University: intelligent algorithms for thermal modeling & control in electric drives
 *  2 years experience in embedded software engineering for an automotive supplier
 
-#### Publications
-
 ---
 
-### Technology stack:
+#### Technology stack:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
